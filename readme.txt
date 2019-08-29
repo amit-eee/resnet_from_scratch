@@ -1,0 +1,1 @@
+In this repo, I will make my own version of resnet from scratch.
